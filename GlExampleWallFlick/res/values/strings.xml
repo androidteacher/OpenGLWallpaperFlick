@@ -2,10 +2,10 @@
 <resources>
     <string name="hello"></string>
    
-    <string name="app_name">Heart Live Wallpaper</string>
-<string name="wallpapers">Heart Live Wallpaper</string>
+    <string name="app_name">GLExample</string>
+<string name="wallpapers">GLExample</string>
  
-    <string name="GL_TITLE">Heart Live Wallpaper</string>
+    <string name="GL_TITLE">GLExample</string>
 
    
 
