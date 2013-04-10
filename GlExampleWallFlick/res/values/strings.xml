@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+   
+    <string name="app_name">Heart Live Wallpaper</string>
+<string name="wallpapers">Heart Live Wallpaper</string>
+ 
+    <string name="GL_TITLE">Heart Live Wallpaper</string>
+
+   
+
+   
+
+    <string name="settings_title">Settings</string>
+    <string name="cube2_settings_mode">Settings Subtext</string>
+   
+     <string name="cube2_settings_color_title">Choose a Color</string>
+    <string name="cube2_settings_color_summary">Change the Color of the Heart
+    </string>
+     <string name="desc">A Spinning Heart in 3D Space
+</string>
+</resources>
