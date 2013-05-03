@@ -23,7 +23,8 @@ import android.preference.PreferenceActivity;
 public class Settings extends PreferenceActivity
     implements SharedPreferences.OnSharedPreferenceChangeListener {
 
-    @Override
+    @SuppressWarnings("deprecation")
+	@Override
     protected void onCreate(Bundle icicle) {
         super.onCreate(icicle);
         getPreferenceManager().setSharedPreferencesName(
@@ -38,7 +39,8 @@ public class Settings extends PreferenceActivity
         super.onResume();
     }
 
-    @Override
+    @SuppressWarnings("deprecation")
+	@Override
     protected void onDestroy() {
         getPreferenceManager().getSharedPreferences().unregisterOnSharedPreferenceChangeListener(
                 this);
